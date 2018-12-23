@@ -1,5 +1,6 @@
 # Implementing-useful-RSA-functions
 Implementation of the following five functions:
+
 modarithmetic.py 
 • gcd(a,b) takes two positive integers of input, and returns a tuple of three integers (d,s,t) where
 d is the gcd of a and b, and sa+tb=d.
